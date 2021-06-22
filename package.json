@@ -1,0 +1,21 @@
+{
+  "name": "intro-unit-testing",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Viktoria Derkach",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.4"
+  }
+}
